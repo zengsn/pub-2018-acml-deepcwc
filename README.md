@@ -3,7 +3,7 @@
 This paper will be presented at The 10th Asian Conference on Machine Learning, Beijing ([ACML 2018](http://www.acml-conf.org/2018/)).
 Contact us if you need the preprocessed data to run the code.
 
-# Cite our paper
+# Cite our pre-printed paper
 
 ```  
 @article{Zeng2018Deep,
@@ -13,6 +13,8 @@ Contact us if you need the preprocessed data to run the code.
   year={2018}
 }
 ```  
+
+*The formal version of conference paper is coming soon.*
 
 *Thanks **Xing Lin** et al. (UCLA) for citing our paper in their **Science** paper "All-optical machine learning using diffractive deep neural networks" - http://science.sciencemag.org/content/361/6406/1004 (Published at Sep. 7, 2018).*
 

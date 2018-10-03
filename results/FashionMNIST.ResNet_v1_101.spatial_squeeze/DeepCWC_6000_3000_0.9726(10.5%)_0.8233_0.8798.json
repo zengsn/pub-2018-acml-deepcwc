@@ -1,0 +1,18 @@
+[0.8233,0.8798,0.9726]
+
+HDF5 FashionMNIST_28x28.resnet_v1_101.spatial_squeeze.h5 
+Dataset 'spatial_squeeze' 
+    Size:  1000x70000
+    MaxSize:  1000x70000
+    Datatype:   H5T_IEEE_F32LE (single)
+    ChunkSize:  []
+    Filters:  none
+    FillValue:  0.000000
+numOfAllTrainingSamples=60000,	numOfAllTestSamples=10000
+Image based training is ready in 985.9 (s).
+numOfAllTrainingSamples=60000,	numOfAllTestSamples=10000
+Deep feature based training is ready in 1293 (s).
+CRC iteratively ... 
+Iteration:	 2:1 
+Iteration:	 2:2 
+	 Done in 14605.624 (s) with accuracy=0.9726 and iterations=2

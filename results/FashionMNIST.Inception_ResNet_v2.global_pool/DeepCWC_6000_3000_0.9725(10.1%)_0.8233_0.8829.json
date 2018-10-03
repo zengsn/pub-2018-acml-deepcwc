@@ -1,0 +1,17 @@
+[0.8233,0.8829,0.9725,7884.362143,2]
+HDF5 FashionMNIST_28x28.inception_resnet_v2.global_pool.h5 
+Dataset 'global_pool' 
+    Size:  1536x1x1x70000
+    MaxSize:  1536x1x1x70000
+    Datatype:   H5T_IEEE_F32LE (single)
+    ChunkSize:  []
+    Filters:  none
+    FillValue:  0.000000
+numOfAllTrainingSamples=60000,	numOfAllTestSamples=10000
+Image based training is ready in 937.9 (s).
+numOfAllTrainingSamples=60000,	numOfAllTestSamples=10000
+Deep feature based training is ready in 1858 (s).
+CRC iteratively ... 
+Iteration:	 2:1 
+Iteration:	 2:2 
+	 Done in 7884.362 (s) with accuracy=0.9725 and iterations=2

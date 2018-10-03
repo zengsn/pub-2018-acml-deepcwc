@@ -1,0 +1,17 @@
+[0.8233,0.8699,0.9713,6734.609465,2]
+HDF5 FashionMNIST_28x28.inception_resnet_v2.logits.h5 
+Dataset 'Logits' 
+    Size:  1001x70000
+    MaxSize:  1001x70000
+    Datatype:   H5T_IEEE_F32LE (single)
+    ChunkSize:  []
+    Filters:  none
+    FillValue:  0.000000
+numOfAllTrainingSamples=60000,	numOfAllTestSamples=10000
+Image based training is ready in 939.4 (s).
+numOfAllTrainingSamples=60000,	numOfAllTestSamples=10000
+Deep feature based training is ready in 1206 (s).
+CRC iteratively ... 
+Iteration:	 2:1 
+Iteration:	 2:2 
+	 Done in 6734.609 (s) with accuracy=0.9713 and iterations=2

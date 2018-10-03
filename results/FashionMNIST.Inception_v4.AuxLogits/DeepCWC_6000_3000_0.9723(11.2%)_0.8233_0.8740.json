@@ -1,0 +1,18 @@
+[0.8233,0.874,0.9723,14387.14686]
+HDF5 FashionMNIST_28x28.inception_v4.auxlogits.h5 
+Dataset 'AuxLogits' 
+    Size:  1001x70000
+    MaxSize:  1001x70000
+    Datatype:   H5T_IEEE_F32LE (single)
+    ChunkSize:  []
+    Filters:  none
+    FillValue:  0.000000
+numOfAllTrainingSamples=60000,	numOfAllTestSamples=10000
+Image based training is ready in 999.7 (s).
+numOfAllTrainingSamples=60000,	numOfAllTestSamples=10000
+Deep feature based training is ready in 1294 (s).
+CRC iteratively ... 
+Iteration:	 2:1 
+Iteration:	 2:2 
+	 Done in 14387.147 (s) with accuracy=0.9723 and iterations=2
+>> 

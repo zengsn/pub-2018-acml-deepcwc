@@ -1,0 +1,17 @@
+[0.8233,0.8821,0.9694,16460.81223,2]
+HDF5 FashionMNIST_28x28.vgg_19.fc7.h5 
+Dataset 'fc7' 
+    Size:  4096x1x1x70000
+    MaxSize:  4096x1x1x70000
+    Datatype:   H5T_IEEE_F32LE (single)
+    ChunkSize:  []
+    Filters:  none
+    FillValue:  0.000000
+numOfAllTrainingSamples=60000,	numOfAllTestSamples=10000
+Image based training is ready in 933.5 (s).
+numOfAllTrainingSamples=60000,	numOfAllTestSamples=10000
+Deep feature based training is ready in 5042 (s).
+CRC iteratively ... 
+Iteration:	 2:1 
+Iteration:	 2:2 
+	 Done in 16460.812 (s) with accuracy=0.9694 and iterations=2

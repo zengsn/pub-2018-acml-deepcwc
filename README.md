@@ -6,15 +6,12 @@ Contact us if you need the preprocessed data to run the code.
 # Cite our pre-printed paper
 
 ```  
-@article{Zeng2018Deep,
-  title={Deep Collaborative Weight-based Classification},
-  author={Zeng, Shaoning and Zhang, Bob and Gou, Jianping},
-  journal={arXiv preprint arXiv:1802.07589},
+@inproceedings{zeng2018collaboratively,
+  title={Collaboratively Weighting Deep and Classic Representation via $ l\_2 $ Regularization for Image Classification},
+  author={Zeng, Shaoning and Zhang, Bob and Zhang, Yanghao and Gou, Jianping},
+  booktitle={Asian Conference on Machine Learning},
+  pages={502--517},
   year={2018}
 }
 ```  
-
-*The formal version of conference paper is coming soon.*
-
-*Thanks **Xing Lin** et al. (UCLA) for citing our paper in their **Science** paper "All-optical machine learning using diffractive deep neural networks" - http://science.sciencemag.org/content/361/6406/1004 (Published at Sep. 7, 2018).*
 
